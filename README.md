@@ -1,6 +1,6 @@
 # flutter_project
 
-here is a brief description of each of your projects:
+here is a brief description of each of my projects:
 
 1-News App using API and BLoC Provider: This app could display the latest news from various sources by consuming data from a news API. The app could use BLoC (Business Logic Component) architecture to manage the state of the app, allowing for efficient handling of data updates and network calls. The user interface could be designed to display news articles in a list or grid format with thumbnail images, headlines, and brief descriptions. Tapping on an article could open a detailed view of the article with the full article content, related articles, and a share button.
 
